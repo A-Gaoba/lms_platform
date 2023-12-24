@@ -1,3 +1,5 @@
+import { Building } from "lucide-react";
+
 const AuthLayout = ({
   children
 }: {
@@ -11,3 +13,5 @@ const AuthLayout = ({
 }
 
 export default AuthLayout;
+
+
