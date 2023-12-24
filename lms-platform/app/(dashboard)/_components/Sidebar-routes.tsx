@@ -14,6 +14,12 @@ const gustRoutes = [
     label: "Brouws",
     href: "/search"
   }
+  ,
+  {
+    icon: Compass,
+    label: "My courses",
+    href: "/my-courses"
+  }
 ]
 
 export const SidebarRoutes = () => {
