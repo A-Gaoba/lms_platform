@@ -10,7 +10,7 @@ export const Logo = () => {
     router.push("/");
   }
   return (
-    <div className="flex items-center justify-center">
+    <div className="flex items-center justify-center h-14">
       <Image
         className="p-3"
         height={50}
